@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asa, an <a href="https://linkedin.com">IT Professional</a>☺</h1>
+<h1>Hello World, my name is Asa and I'm an IT professional!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
