@@ -1,4 +1,4 @@
-<h1>Hello World, my name is Asa and I'm an IT professional!</h1>
+<h1>Hello World, my name is Asa!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
